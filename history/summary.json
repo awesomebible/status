@@ -40,19 +40,19 @@
     "url": "https://docs.awesomebible.de",
     "icon": "https://icons.duckduckgo.com/ip3/docs.awesomebible.de.ico",
     "slug": "awesome-bible-docs",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
-    "time": 428,
-    "timeDay": 680,
-    "timeWeek": 428,
-    "timeMonth": 428,
-    "timeYear": 428,
+    "status": "up",
+    "uptime": "99.40%",
+    "uptimeDay": "99.19%",
+    "uptimeWeek": "99.40%",
+    "uptimeMonth": "99.40%",
+    "uptimeYear": "99.40%",
+    "time": 402,
+    "timeDay": 503,
+    "timeWeek": 402,
+    "timeMonth": 402,
+    "timeYear": 402,
     "dailyMinutesDown": {
-      "2024-09-05": 0
+      "2024-09-05": 12
     }
   },
   {
