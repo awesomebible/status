@@ -27,6 +27,7 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: status.awesomebible.de
   # baseUrl: /your-repo-name
+  robotsText: "User-agent: * \n Disallow: /"
   logoUrl: https://cdn.jsdelivr.net/gh/awesomebible/assets@3b6cdf5/svgs/logomark-white.svg
   name: Status
   introTitle: "Status of awesomeBible websites and services"
