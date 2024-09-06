@@ -25,12 +25,12 @@ sites:
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: upptime.awesomebible.de
+  cname: status.awesomebible.de
   # baseUrl: /your-repo-name
-  logoUrl: https://cdn.jsdelivr.net/gh/upptime/upptime.js.org@56b4236/static/img/icon.svg
-  name: Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  logoUrl: https://cdn.jsdelivr.net/gh/awesomebible/assets@3b6cdf5/svgs/logomark-white.svg
+  name: Status
+  introTitle: "Status of awesomeBible websites and services"
+  introMessage: "The status of the website is checked every 5 minutes. If something goes wrong and isn't reflected here, feel free to [contact us](mailto:hey@awesomebible.de)!"
   navbar:
     - title: Status
       href: /
