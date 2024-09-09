@@ -130,19 +130,19 @@
     "url": "https://losungen.awesomebible.de",
     "icon": "https://icons.duckduckgo.com/ip3/losungen.awesomebible.de.ico",
     "slug": "losungen-daily-texts",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 168,
-    "timeDay": 179,
-    "timeWeek": 168,
-    "timeMonth": 168,
-    "timeYear": 168,
+    "status": "up",
+    "uptime": "98.63%",
+    "uptimeDay": "92.64%",
+    "uptimeWeek": "98.63%",
+    "uptimeMonth": "98.63%",
+    "uptimeYear": "98.63%",
+    "time": 166,
+    "timeDay": 169,
+    "timeWeek": 166,
+    "timeMonth": 166,
+    "timeYear": 166,
     "dailyMinutesDown": {
-      "2024-09-09": 0
+      "2024-09-09": 106
     }
   },
   {
