@@ -130,18 +130,20 @@
     "url": "https://losungen.awesomebible.de",
     "icon": "https://icons.duckduckgo.com/ip3/losungen.awesomebible.de.ico",
     "slug": "losungen-daily-texts",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 171,
-    "timeDay": 199,
-    "timeWeek": 171,
-    "timeMonth": 171,
-    "timeYear": 171,
-    "dailyMinutesDown": {}
+    "time": 168,
+    "timeDay": 179,
+    "timeWeek": 168,
+    "timeMonth": 168,
+    "timeYear": 168,
+    "dailyMinutesDown": {
+      "2024-09-09": 0
+    }
   },
   {
     "name": "OpenBibleProject",
