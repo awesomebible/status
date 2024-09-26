@@ -112,19 +112,19 @@
     "url": "https://auth.awesomebible.de",
     "icon": "https://icons.duckduckgo.com/ip3/auth.awesomebible.de.ico",
     "slug": "kinde-auth",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 689,
-    "timeDay": 777,
-    "timeWeek": 739,
-    "timeMonth": 689,
-    "timeYear": 689,
+    "status": "up",
+    "uptime": "99.91%",
+    "uptimeDay": "97.97%",
+    "uptimeWeek": "99.71%",
+    "uptimeMonth": "99.91%",
+    "uptimeYear": "99.91%",
+    "time": 688,
+    "timeDay": 749,
+    "timeWeek": 733,
+    "timeMonth": 688,
+    "timeYear": 688,
     "dailyMinutesDown": {
-      "2024-09-26": 0
+      "2024-09-26": 29
     }
   },
   {
