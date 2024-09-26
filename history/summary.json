@@ -112,9 +112,9 @@
     "url": "https://auth.awesomebible.de",
     "icon": "https://icons.duckduckgo.com/ip3/auth.awesomebible.de.ico",
     "slug": "kinde-auth",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -123,7 +123,9 @@
     "timeWeek": 739,
     "timeMonth": 689,
     "timeYear": 689,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-09-26": 0
+    }
   },
   {
     "name": "Losungen (Daily Texts)",
