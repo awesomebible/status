@@ -4,36 +4,40 @@
     "url": "https://awesomebible.de",
     "icon": "https://icons.duckduckgo.com/ip3/awesomebible.de.ico",
     "slug": "awesomebible-de",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 560,
     "timeDay": 736,
     "timeWeek": 884,
-    "timeMonth": 626,
+    "timeMonth": 638,
     "timeYear": 560,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-12-05": 1
+    }
   },
   {
     "name": "en.awesomebible.de",
     "url": "https://en.awesomebible.de",
     "icon": "https://icons.duckduckgo.com/ip3/en.awesomebible.de.ico",
     "slug": "en-awesomebible-de",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 618,
     "timeDay": 738,
     "timeWeek": 913,
-    "timeMonth": 751,
+    "timeMonth": 755,
     "timeYear": 618,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-12-05": 0
+    }
   },
   {
     "name": "awesomeBible Docs",
@@ -58,18 +62,19 @@
     "url": "https://verse.awesomebible.de",
     "icon": "https://icons.duckduckgo.com/ip3/verse.awesomebible.de.ico",
     "slug": "verse-awesomebible-de",
-    "status": "up",
+    "status": "down",
     "uptime": "99.69%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.69%",
     "time": 875,
     "timeDay": 482,
     "timeWeek": 511,
-    "timeMonth": 594,
+    "timeMonth": 581,
     "timeYear": 875,
     "dailyMinutesDown": {
+      "2024-12-05": 0,
       "2024-10-12": 410
     }
   },
@@ -87,7 +92,7 @@
     "time": 203,
     "timeDay": 211,
     "timeWeek": 219,
-    "timeMonth": 200,
+    "timeMonth": 198,
     "timeYear": 203,
     "dailyMinutesDown": {}
   },
@@ -105,7 +110,7 @@
     "time": 373,
     "timeDay": 405,
     "timeWeek": 325,
-    "timeMonth": 374,
+    "timeMonth": 376,
     "timeYear": 373,
     "dailyMinutesDown": {}
   },
@@ -123,7 +128,7 @@
     "time": 697,
     "timeDay": 699,
     "timeWeek": 697,
-    "timeMonth": 693,
+    "timeMonth": 687,
     "timeYear": 697,
     "dailyMinutesDown": {
       "2024-09-26": 29
@@ -143,7 +148,7 @@
     "time": 292,
     "timeDay": 386,
     "timeWeek": 325,
-    "timeMonth": 318,
+    "timeMonth": 321,
     "timeYear": 292,
     "dailyMinutesDown": {
       "2024-09-09": 106
