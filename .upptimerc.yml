@@ -13,9 +13,9 @@ sites:
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  # cname: status.awesomebible.de
-  baseUrl: /status
-  logoUrl: https://raw.githubusercontent.com/awesomebible/assets/main/exports/website-logo.png
+  cname: status.awesomebible.de
+  # baseUrl: /status
+  logoUrl: https://assets.awesomebible.de/exports/website-logo.png
   name: awesomeBible Status
   introTitle: "Status of awesomeBible websites and services"
   introMessage: "This statuspage displays the current status and planned maintainances of awesomeBible websites. If anything doesn't work that isn't reflected here, shoot us an [email](mailto:hey@awesomebible.de)."
