@@ -18,7 +18,7 @@ status-website:
   logoUrl: https://assets.awesomebible.de/exports/website-logo.png
   name: awesomeBible Status
   introTitle: "Status of awesomeBible websites and services"
-  introMessage: "This status page displays the current status and planned maintainances of awesomeBible websites. If anything doesn't work that isn't reflected here, shoot us an [email](mailto:hey@awesomebible.de)."
+  introMessage: "This status page displays the current status and planned maintainances of awesomeBible websites. If something doesn't work that isn't reflected here, shoot us an email at \"hey@[this-domain].de\"."
   navbar:
     - title: Status
       href: /
