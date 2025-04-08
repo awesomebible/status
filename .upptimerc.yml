@@ -9,6 +9,7 @@ sites:
     url: https://my.awesomebible.de
   - name: Docs
     url: https://docs.awesomebible.de
+    icon: https://raw.githubusercontent.com/awesomebible/docs/refs/heads/main/public/favicon.svg
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
