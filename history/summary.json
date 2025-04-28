@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 877,
-    "timeDay": 755,
-    "timeWeek": 897,
-    "timeMonth": 873,
-    "timeYear": 877,
+    "time": 874,
+    "timeDay": 681,
+    "timeWeek": 893,
+    "timeMonth": 870,
+    "timeYear": 874,
     "dailyMinutesDown": {}
   },
   {
@@ -22,18 +22,20 @@
     "url": "https://my.awesomebible.de",
     "icon": "https://icons.duckduckgo.com/ip3/my.awesomebible.de.ico",
     "slug": "my-awesome-bible",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 372,
-    "timeDay": 405,
-    "timeWeek": 486,
-    "timeMonth": 373,
-    "timeYear": 372,
-    "dailyMinutesDown": {}
+    "time": 368,
+    "timeDay": 215,
+    "timeWeek": 376,
+    "timeMonth": 369,
+    "timeYear": 368,
+    "dailyMinutesDown": {
+      "2025-04-28": 0
+    }
   },
   {
     "name": "Docs",
@@ -47,9 +49,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 248,
-    "timeDay": 222,
-    "timeWeek": 239,
-    "timeMonth": 247,
+    "timeDay": 262,
+    "timeWeek": 232,
+    "timeMonth": 249,
     "timeYear": 248,
     "dailyMinutesDown": {}
   }
