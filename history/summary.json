@@ -25,7 +25,7 @@
     "status": "down",
     "uptime": "95.74%",
     "uptimeDay": "0.61%",
-    "uptimeWeek": "78.80%",
+    "uptimeWeek": "78.79%",
     "uptimeMonth": "95.12%",
     "uptimeYear": "95.74%",
     "time": 347,
@@ -34,7 +34,7 @@
     "timeMonth": 342,
     "timeYear": 347,
     "dailyMinutesDown": {
-      "2025-05-01": 632,
+      "2025-05-01": 633,
       "2025-04-30": 1430,
       "2025-04-29": 75
     }
@@ -44,19 +44,19 @@
     "url": "https://docs.awesomebible.de",
     "icon": "https://raw.githubusercontent.com/awesomebible/docs/refs/heads/main/public/favicon.svg",
     "slug": "docs",
-    "status": "down",
+    "status": "up",
     "uptime": "95.72%",
-    "uptimeDay": "0.69%",
+    "uptimeDay": "0.70%",
     "uptimeWeek": "78.71%",
     "uptimeMonth": "95.10%",
     "uptimeYear": "95.72%",
-    "time": 239,
-    "timeDay": 181,
-    "timeWeek": 185,
+    "time": 238,
+    "timeDay": 186,
+    "timeWeek": 186,
     "timeMonth": 238,
-    "timeYear": 239,
+    "timeYear": 238,
     "dailyMinutesDown": {
-      "2025-05-01": 631,
+      "2025-05-01": 632,
       "2025-04-30": 1440,
       "2025-04-29": 75
     }
