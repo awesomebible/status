@@ -6,18 +6,16 @@
     "slug": "awesome-bible",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.68%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 711,
     "timeDay": 483,
     "timeWeek": 550,
     "timeMonth": 563,
     "timeYear": 711,
-    "dailyMinutesDown": {
-      "2025-07-11": 5
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "my.awesomeBible",
@@ -46,16 +44,16 @@
     "url": "https://docs.awesomebible.de",
     "icon": "https://raw.githubusercontent.com/awesomebible/docs/refs/heads/main/public/favicon.svg",
     "slug": "docs",
-    "status": "up",
+    "status": "down",
     "uptime": "98.40%",
     "uptimeDay": "93.43%",
     "uptimeWeek": "99.06%",
     "uptimeMonth": "99.78%",
     "uptimeYear": "98.40%",
     "time": 243,
-    "timeDay": 196,
-    "timeWeek": 214,
-    "timeMonth": 240,
+    "timeDay": 193,
+    "timeWeek": 211,
+    "timeMonth": 238,
     "timeYear": 243,
     "dailyMinutesDown": {
       "2025-07-11": 95,
