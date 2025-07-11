@@ -6,9 +6,9 @@
     "slug": "awesome-bible",
     "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "97.22%",
-    "uptimeWeek": "99.60%",
-    "uptimeMonth": "99.91%",
+    "uptimeDay": "96.52%",
+    "uptimeWeek": "99.50%",
+    "uptimeMonth": "99.89%",
     "uptimeYear": "99.97%",
     "time": 702,
     "timeDay": 408,
@@ -16,7 +16,7 @@
     "timeMonth": 538,
     "timeYear": 702,
     "dailyMinutesDown": {
-      "2025-07-11": 40
+      "2025-07-11": 50
     }
   },
   {
@@ -49,9 +49,9 @@
     "slug": "docs",
     "status": "up",
     "uptime": "98.39%",
-    "uptimeDay": "92.04%",
-    "uptimeWeek": "98.86%",
-    "uptimeMonth": "99.74%",
+    "uptimeDay": "91.34%",
+    "uptimeWeek": "98.76%",
+    "uptimeMonth": "99.72%",
     "uptimeYear": "98.39%",
     "time": 243,
     "timeDay": 206,
@@ -59,7 +59,7 @@
     "timeMonth": 240,
     "timeYear": 243,
     "dailyMinutesDown": {
-      "2025-07-11": 115,
+      "2025-07-11": 125,
       "2025-05-01": 828,
       "2025-04-30": 1440,
       "2025-04-29": 75
